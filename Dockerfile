@@ -1,6 +1,6 @@
 FROM node:16-alpine
 
-WORKDIR /user/docker-node
+WORKDIR /usr/docker-node
 
 COPY *.json .
 COPY *.lock .
