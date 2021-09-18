@@ -2,11 +2,13 @@
   Docker Node
 </h1>
 
-This repository is example to run docker with simple app nodejs.
+<p align="center">
+  This repository is example to run docker with simple app nodejs.
+</p>
 
 ## Commands
 
-examples:
+Examples:
 
 ```bash
 # build
@@ -28,5 +30,5 @@ run:
 docker run -p 3333:3333 -d hallex/docker-node
 ```
 
-Some problems:
+Possible problems:
 [Docker Status Exited](https://stackoverflow.com/questions/62615082/docker-status-exited-127-on-mac)
