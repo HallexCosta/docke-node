@@ -30,5 +30,5 @@ run:
 docker run -p 3333:3333 -d hallex/docker-node
 ```
 
-Possible problems:
+Possible problems:  
 [Docker Status Exited](https://stackoverflow.com/questions/62615082/docker-status-exited-127-on-mac)
